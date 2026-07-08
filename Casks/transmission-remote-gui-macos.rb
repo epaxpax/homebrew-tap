@@ -1,6 +1,6 @@
 cask "transmission-remote-gui-macos" do
-  version "0.1.2"
-  sha256 "d6904bb3022d448979a114ee2d8e5002ce112550243322f3ff499c7311f19293"
+  version "0.1.3"
+  sha256 "adce1eeaee93a5adb74eb5d39353453365bda456522d8d5860bd7d9c3c465768"
 
   url "https://github.com/epaxpax/transmission-remote-gui/releases/download/v#{version}/Transmission.Remote.GUI.app.zip",
       verified: "github.com/epaxpax/transmission-remote-gui/"
